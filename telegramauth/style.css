@@ -1,0 +1,209 @@
+.box {
+  width: 473px;
+  height: 479px;
+}
+
+.box .group {
+  position: fixed;
+  width: 473px;
+  height: 479px;
+  top: 0;
+  left: 0;
+}
+
+.box .group-wrapper {
+  height: 479px;
+}
+
+.box .overlap-group-wrapper {
+  width: 481px;
+  height: 479px;
+}
+
+.box .overlap-group {
+  position: relative;
+  width: 473px;
+  height: 479px;
+  border-radius: 65px;
+}
+
+.box .norm {
+  position: absolute;
+  width: 142px;
+  height: 213px;
+  top: 261px;
+  left: 166px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+}
+
+.box .rectangle {
+  position: absolute;
+  width: 473px;
+  height: 479px;
+  top: 0;
+  left: 0;
+  border-radius: 65px;
+  background: linear-gradient(
+    180deg,
+    rgba(26, 31, 59, 0.1) 0%,
+    rgba(42, 77, 255, 0.1) 100%
+  );
+}
+
+.box .text-wrapper {
+  top: 447px;
+  left: 49px;
+  color: #ffffff;
+  font-size: 15px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .div {
+  top: 190px;
+  left: 34px;
+  font-size: 40px;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-2 {
+  top: 229px;
+  left: 60px;
+  color: #0083ff;
+  font-size: 60px;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-3 {
+  top: 16px;
+  left: 50px;
+  font-size: 50px;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+/* Original CSS code should be injected here */
+
+/* Accessibility and semantic improvements */
+.box {
+  width: 473px;
+  height: 479px;
+}
+
+.box .group {
+  position: fixed;
+  width: 473px;
+  height: 479px;
+  top: 0;
+  left: 0;
+}
+
+.box .group-wrapper {
+  height: 479px;
+}
+
+.box .overlap-group-wrapper {
+  width: 481px;
+  height: 479px;
+}
+
+.box .overlap-group {
+  position: relative;
+  width: 473px;
+  height: 479px;
+  border-radius: 65px;
+}
+
+.box .norm {
+  position: absolute;
+  width: 142px;
+  height: 213px;
+  top: 261px;
+  left: 166px;
+  aspect-ratio: 0.67;
+  object-fit: cover;
+}
+
+.box .rectangle {
+  position: absolute;
+  width: 473px;
+  height: 479px;
+  top: 0;
+  left: 0;
+  border-radius: 65px;
+  background: linear-gradient(
+    180deg,
+    rgba(26, 31, 59, 0.1) 0%,
+    rgba(42, 77, 255, 0.1) 100%
+  );
+}
+
+.box .text-wrapper {
+  top: 447px;
+  left: 49px;
+  color: #ffffff;
+  font-size: 15px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: normal;
+  margin: 0;
+}
+
+.box .div {
+  top: 190px;
+  left: 34px;
+  font-size: 40px;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  margin: 0;
+}
+
+.box .text-wrapper-2 {
+  top: 229px;
+  left: 60px;
+  color: #0083ff;
+  font-size: 60px;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: normal;
+  margin: 0;
+}
+
+.box .text-wrapper-3 {
+  top: 16px;
+  left: 50px;
+  font-size: 50px;
+  position: absolute;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  margin: 0;
+}
